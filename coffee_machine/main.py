@@ -25,9 +25,9 @@ MENU = {
 }
 
 resources = {
-    "water": 30,
-    "milk": 20,
-    "coffee": 10,
+    "water": 300,
+    "milk": 200,
+    "coffee": 100,
 }
 def check_resources(drink):
     """Checks if the given ingredient is available as needed"""
